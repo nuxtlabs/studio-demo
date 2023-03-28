@@ -1,6 +1,13 @@
 {
-  "socials": {
-    "twitter": "nuxtstudio",
-    "github": ""
+  "prose": {
+    "h1": {
+      "icon": "ic:outline-delivery-dining"
+    }
+  },
+  "nuxtIcon": {
+    "aliases": {
+      "dark-mode": "cil:moon",
+      "light-mode": "cil:sun"
+    }
   }
 }
