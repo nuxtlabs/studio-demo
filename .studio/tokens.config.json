@@ -1,0 +1,51 @@
+{
+  "color": {
+    "primary": {
+      "300": {
+        "value": "#eaa85d"
+      },
+      "400": {
+        "value": "#d4962b"
+      },
+      "500": {
+        "value": "#b87414"
+      },
+      "600": {
+        "value": "#96640d"
+      },
+      "700": {
+        "value": "#75550f"
+      }
+    }
+  },
+  "font": {
+    "sans": {
+      "value": "Trebuchet MS"
+    }
+  },
+  "prose": {
+    "a": {
+      "color": {
+        "static": {
+          "value": {
+            "initial": "var(--color-primary-500)",
+            "dark": "var(--color-primary-400)"
+          }
+        },
+        "hover": {
+          "value": {
+            "initial": "var(--color-primary-600)",
+            "dark": "var(--color-primary-300)"
+          }
+        }
+      },
+      "border": {
+        "style": {
+          "static": {
+            "value": "none"
+          }
+        }
+      }
+    }
+  }
+}
