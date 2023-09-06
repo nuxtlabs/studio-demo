@@ -8,7 +8,9 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxt/content": "^2.8.2",
+    "@nuxthq/studio": "^0.14.0",
     "content-wind": "latest",
-    "nuxt": "latest"
+    "nuxt": "^3.7.1"
   }
 }
